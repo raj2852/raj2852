@@ -2,7 +2,7 @@
 ##My Top Projects:
   [![Safar](/safar.png)](https://raj2852.github.io/safar)
   [![Mediheal](/mediheal.png)](https://raj2852.github.io/Mediheal)
-  [![Tastebuds](/tastebuds.png)](https://tastebuds-in.herokuapp.com)
+  [![Tastebuds](/tastebuds.png)](https://tastebuds-in.cyclic.app/)
 
   [![LinkedIn](/linkedin.png)](https://www.linkedin.com/in/rajdip-mondal)
   [![Facebook](/fb.png)](https://www.facebook.com/rajdip.mondal.1297943)
